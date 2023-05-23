@@ -1,0 +1,7 @@
+Remaining coins: 13, 13, 13
+Player 1: choose a pile: Now choose a square number of coins: Remaining coins: 4, 13, 13
+Player 2: choose a pile: Now choose a square number of coins: Remaining coins: 4, 4, 13
+Player 1: choose a pile: Now choose a square number of coins: Remaining coins: 4, 4, 4
+Player 2: choose a pile: Now choose a square number of coins: Remaining coins: 0, 4, 4
+Player 1: choose a pile: Now choose a square number of coins: Remaining coins: 0, 0, 4
+Player 2: choose a pile: Now choose a square number of coins: Player 2 wins!
